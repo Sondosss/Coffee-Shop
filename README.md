@@ -68,8 +68,9 @@ The website utilized the Bootstrap framework to enhance responsiveness using gri
 ![flex](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%202.jpeg)
 
 - Using Fontawesome 
-
-
-
+``` 
+<button type="button" class="btn btn-lg join">Join For Free <i class="fa-solid fa-arrow-right"></i> </button>
+```
+                                
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
