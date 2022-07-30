@@ -62,7 +62,7 @@ The website utilized the Bootstrap framework to enhance responsiveness using gri
                 </div>
             </div>
       </section>      
-            ```
+```
 
 - Using Flexbox 
 ![flex](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%202.jpeg)
