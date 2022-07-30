@@ -1,5 +1,5 @@
 # Coffee-Shop
-
+![coffe](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%201.jpeg)
 This a simple home page for a coffee shop, watch this [3 minutes demo video](https://www.loom.com/share/26c4513a4f1b4b96b66a34af78f29605) to understand the project and how to run it. For more details, keep reading the documentaion! :) 
 
 
@@ -14,15 +14,23 @@ This a simple home page for a coffee shop, watch this [3 minutes demo video](htt
 ## Features 
 
 - Responsiveness
-The websites alingns with the provided design and on top of that it also adjusts on different screens such as tablets and mobiles. 
+The websites aligns with the provided design and on top of that it also adjusts on different screens such as tablets and mobiles. 
 
 ![tablet](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffee%20shop%205%20.jpeg)
+![mobile](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%207%20.jpeg)
+
+- Pixel Perfect Design
+![desing] (https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%208%20.jpeg)
 
 - Using Bootstrap 
 The website utilized the Bootstrap framework to enhance responsiveness using grids and other utlities.  
 
-- Using Flexbox 
+![bootstrap](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffee%20shop%204.jpeg)
+![grid](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%206%20.jpeg) 
+![grid2](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%203.jpeg)
 
+- Using Flexbox 
+![flex](https://github.com/Sondosss/Coffee-Shop/blob/main/screenshots/coffe%20shop%202.jpeg)
 
 - Using Fontawesome 
 
