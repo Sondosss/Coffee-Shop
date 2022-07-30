@@ -1,0 +1,262 @@
+/* navbar stylying */
+nav {
+    padding: 25px;
+}
+.search {
+    width: 270px;
+    
+    
+}
+.search::placeholder {
+    color: #191818e3;
+  }
+
+  .nav-search {
+    padding-top: 14px;
+    width: 75%;
+    padding-left: 35%;
+  }
+  .loginLi {
+    margin-right: 24px;
+  }
+.nav-search::after{
+content: "\f002";
+display: inline-block;
+color: white;
+font-family: "Font Awesome 6 Free";
+font-weight: 600 ;
+font-size: 1.3em;
+background-color: rgb(253 185 33);;
+padding: 3px 8px;
+border-top-right-radius: 0.275rem;
+border: 1px solid #ced4da;
+border-bottom-right-radius: 0.275rem;
+margin-left: -6px;
+
+}
+.fa-arrow-right:before {
+    
+    margin-left: 9px;}
+.login, .join{
+    font-weight: 700;
+    font-size: 15px;
+    
+}
+.login{
+    color: rgb(253 185 33);
+}
+.join{
+    color: white;
+    padding: 11px 22px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(253 185 33);;
+}
+
+
+/*Coffee-first section */
+.Coffee-first {
+    background-image: url(../images/background.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 570px;
+    position: relative;
+    margin-bottom: 12%;
+
+}
+.Coffee-first p, .Coffee-first span {
+    font-size: 55px;
+    color: #d3a130;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    font-weight: 700;
+
+}
+.Coffee-first span 
+{
+    left: 8%;
+    bottom: 47%;
+}
+.Coffee-first p{
+    left: 3%;
+    bottom: 56%;
+}
+
+/*Style Make Coffee Section*/
+.makeCoffee{
+    position: relative;
+    margin-bottom: 20%;
+}
+.rightText, .leftImg {
+    width: 50%;
+}
+.orange, .yellow {
+    position: absolute;
+}
+.orange {
+    width: 100px;
+    height: 120px;
+    background-color: #ee8d35;
+    left: 32%;
+    bottom: 83%
+
+}
+.yellow {
+    width: 50px;
+    height: 50px;
+   border-radius: 50%;
+   background-color: rgb(253 185 33);;
+   top: 95%;
+   right: 97%;
+}
+.topImg {
+    position: relative;
+    z-index: 2;
+}
+.rightText pre {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    font-family: unset;
+    color:rgb(37 43 66);
+    font-family: 'Montserrat', sans-serif;
+}
+.above, .under{
+    height: 7px;
+    background-color: rgb(238 141 53);
+    position: absolute;
+    left: 65%;
+    
+}
+.above {
+    width: 8%;
+    
+    
+   
+    margin-top: -25px;
+}
+.under{
+    width: 29%;
+   
+    margin-top: 15px;
+}
+
+/*Style Products Section */
+.card {
+    border: none;
+    width: 16rem ;
+    
+}
+.card img {
+   
+    text-shadow: 2px 2px;
+}
+.advice {
+    font-size: 14px;
+    font-weight: 700;
+    color: rgb(35 166 240);
+}
+
+.first h1 {
+    font-family: 'Raleway', sans-serif;
+    color:rgb(0 5 6);
+    font-weight: 700;
+
+}
+.first {
+    margin-bottom: 8%;
+} 
+.imgShadow{
+    
+
+    border-radius: 8%;
+    box-shadow: 0px 8px 5px rgb(205 205 205);
+
+}
+.card-title, .rate, .review, .address {
+    text-shadow: 3px 6px 4px rgb(205 205 205);
+}
+
+.card-title {
+
+    color: rgb(0 59 64);
+    font-family: 'Raleway', sans-serif;
+     }
+.rate {
+    font-weight: 600;
+    
+    
+}
+
+.review {
+    color: rgb(183 193 194);
+    font-family: 'Raleway', sans-serif;
+}
+.address {
+
+    color: rgb(0 59 64);;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Raleway', sans-serif;
+}
+
+.rate::before{
+    content: "\f005";
+    display: inline-block;
+    color: rgb(253 203 110);
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    font-size: 14px;
+   
+    padding: 5px 3px;
+  
+    margin-left: -6px;
+    
+    }
+
+    .products {
+        margin-bottom: 17%;
+    }
+
+    /*Style Join Us Section*/
+    .joinUs {
+        margin-bottom: 20%;
+
+    }
+    h2 {
+        margin-bottom: 7%;
+        font-weight: 700;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .input-group {
+        width: 50% !important;
+        position: absolute;
+        left: 25%;;
+    }
+    .yourEmail{
+        padding: 15px;
+    }
+    .input-group button {
+       color: white;
+       background-color: rgb(253 185 33);;
+       border: 1px solid #ced4da;
+       font-weight: 500;
+    }
+     .yourEmail::placeholder {
+        font-weight: 500;
+    } 
+
+
+    /* Media Query */
+    
+@media  (min-width: 768px) and (max-width: 1000px)  { 
+     .nav-search {
+        padding-top: 14px;
+        width: 60%;
+        padding-left: 0;
+      } 
+
+    }
+
+
+
