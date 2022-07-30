@@ -16,8 +16,8 @@ This a simple home page for a coffee shop, watch this [3 minutes demo video](htt
 - Responsiveness
 The websites alingns with the provided design and on top of that it also adjusts on different screens such as tablets and mobiles. 
 
-![tablet](./screenshots/coffee shop 5.jpeg)
-
+[!tablet](./screenshots/coffee shop 5.jpeg)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
 - Using Bootstrap 
 The website utilized the Bootstrap framework to enhance responsiveness using grids and other utlities.  
 
